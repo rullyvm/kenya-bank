@@ -6,4 +6,4 @@ markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: pretty
-baseurl: /kenya-bank 
+baseurl: http://rullyvm.github.com/kenya-bank 
